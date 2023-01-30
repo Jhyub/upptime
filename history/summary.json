@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/naru.jhyub.dev.ico",
     "slug": "naru-g14",
     "status": "up",
-    "uptime": "0.71%",
-    "uptimeDay": "0.71%",
-    "uptimeWeek": "0.71%",
-    "uptimeMonth": "0.71%",
-    "uptimeYear": "0.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 284,
     "timeDay": 284,
     "timeWeek": 284,
     "timeMonth": 284,
     "timeYear": 284,
-    "dailyMinutesDown": {
-      "2023-01-30": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
