@@ -4,11 +4,11 @@
     "url": "https://naru.jhyub.dev",
     "icon": "https://icons.duckduckgo.com/ip3/naru.jhyub.dev.ico",
     "slug": "naru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 574,
     "timeDay": 597,
@@ -16,6 +16,7 @@
     "timeMonth": 562,
     "timeYear": 574,
     "dailyMinutesDown": {
+      "2023-05-03": 1,
       "2023-04-10": 23
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://naru.jhyub.dev/naru/naru.db",
     "icon": "https://icons.duckduckgo.com/ip3/naru.jhyub.dev.ico",
     "slug": "naru-naru",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 163,
@@ -36,6 +37,7 @@
     "timeMonth": 161,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2023-05-03": 1,
       "2023-04-10": 23
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://naru.jhyub.dev/g14/g14.db",
     "icon": "https://icons.duckduckgo.com/ip3/naru.jhyub.dev.ico",
     "slug": "naru-g14",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 324,
     "timeYear": 340,
     "dailyMinutesDown": {
+      "2023-05-03": 0,
       "2023-04-10": 119,
       "2023-03-20": 565,
       "2023-03-15": 28,
