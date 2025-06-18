@@ -5,22 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/naru.jhyub.dev.ico",
     "slug": "naru",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
     "time": 611,
-    "timeDay": 705,
-    "timeWeek": 557,
+    "timeDay": 664,
+    "timeWeek": 567,
     "timeMonth": 601,
-    "timeYear": 607,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-04-29": 125,
       "2024-07-19": 151,
       "2024-07-18": 1440,
-      "2024-07-17": 825,
-      "2024-06-18": 15
+      "2024-07-17": 825
     }
   },
   {
@@ -35,8 +34,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 166,
-    "timeDay": 192,
-    "timeWeek": 150,
+    "timeDay": 191,
+    "timeWeek": 153,
     "timeMonth": 163,
     "timeYear": 164,
     "dailyMinutesDown": {
@@ -59,8 +58,8 @@
     "uptimeYear": "99.14%",
     "time": 333,
     "timeDay": 385,
-    "timeWeek": 302,
-    "timeMonth": 328,
+    "timeWeek": 309,
+    "timeMonth": 329,
     "timeYear": 329,
     "dailyMinutesDown": {
       "2025-05-08": 33,
@@ -70,8 +69,7 @@
       "2024-07-19": 151,
       "2024-07-18": 1440,
       "2024-07-17": 824,
-      "2024-06-22": 295,
-      "2024-06-18": 122
+      "2024-06-22": 295
     }
   }
 ]
