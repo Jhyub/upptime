@@ -1,7 +1,7 @@
 url: https://naru.jhyub.dev/g14/g14.db
-status: up
-code: 200
-responseTime: 384
-lastUpdated: 2025-07-22T23:20:27.546Z
+status: down
+code: 502
+responseTime: 184
+lastUpdated: 2025-07-23T14:33:29.120Z
 startTime: 2023-01-30T01:14:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
